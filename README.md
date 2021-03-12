@@ -7,3 +7,5 @@ wsl -d docker-desktop<br>
 sysctl -w vm.max_map_count=262144<br>
 <br>
 restart Docker 
+<br><br><br>
+<a href="https://medium.com/@thiagoloureiro/code-analysis-with-sonarqube-docker-net-core-aee521ee8931"> Installation</a>
